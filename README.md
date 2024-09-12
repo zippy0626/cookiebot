@@ -1,4 +1,7 @@
 # Cookie Clicker
+
+<img src = 'dataset1/'>
+
 Open the project with cd in terminal
 
 pip install -r requirements.txt
