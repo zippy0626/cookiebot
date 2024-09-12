@@ -1,6 +1,6 @@
 # Cookie Clicker
 
-<img src = 'dataset1/'>
+![alt text](Pasted-image.png)
 
 Open the project with cd in terminal
 
